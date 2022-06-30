@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahidIqb
+- 👋 Hi, I’m @Shahid
 - 👀 I’m interested in mahcine learning, bioinformatics, and computational biology.
 - 🌱 I’m currently learning how to make bioinformatics tools.
 - 💞️ I’m looking to collaborate on predicting the effects of missences mutations on protein stability and diseases.
