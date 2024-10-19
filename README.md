@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahid
-- 👀 I’m interested in mahcine learning, bioinformatics, and computational biology.
-- 🌱 I’m currently learning how to make bioinformatics tools.
-- 💞️ I’m looking to collaborate on predicting the effects of missences mutations on protein stability and diseases.
+- 👀 I’m interested in data analytics, data science, machine learning, bioinformatics, and computational biology.
+- 🌱 I’m currently working as a Business Analyst at McCarthy Learning.
+- 💞️ I’m looking to collaborate on predicting the effects of missense mutations on protein stability and diseases.
 - 📫 How to reach me shahid.iqbal@monash.edu
 
 <!---
