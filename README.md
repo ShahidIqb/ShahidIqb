@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahid
-- 👀 I’m interested in data analytics, data science, machine learning, bioinformatics, and computational biology.
-- 🌱 I’m currently working as a Business Analyst at McCarthy Learning.
-- 💞️ I’m looking to collaborate on predicting the effects of missense mutations on protein stability and diseases.
+- 👀 I am interested in data analytics, data science, machine learning, bioinformatics, and computational biology.
+- 🌱 I am currently working as an ICT Business Analyst at McCarthy Learning.
+- 💞️ I’m looking forward to working and extracting meaningful reports and information from data.
 - 📫 How to reach me shahid.iqbal@monash.edu
 
 <!---
